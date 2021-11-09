@@ -1,0 +1,3 @@
+html, body {padding: 0; margin: 0; width: 100%; height:100%;}
+#videoplayer {width: 100%; height: 100%;}
+#overlay {width: 100%; height: 100%; position: absolute; top: 0px; background-color: #000000; background-size: contain; background-image:url('bgoverlay.png'); background-repeat: no-repeat; background-position: center center; display: none;}

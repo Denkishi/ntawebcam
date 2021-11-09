@@ -1,0 +1,10 @@
+http://cam01.binz-kabel.de/cam1/960.m3u8
+http://cameras.interaviation.com.br/camera02/interaviation2.m3u8
+http://vogelkamera.dyndns.tv/hls/live.stream.m3u8
+https://stream.hqv.cz/ratibor.obecni.net/index.m3u8
+http://stream.silesnet.net/webcams/jablunkov.m3u8
+https://stream.hungarospa.hu/hls/axis2/index.m3u8
+https://stream.hungarospa.hu/hls/axis0/index.m3u8
+https://stream.hungarospa.hu/hls/axis1/index.m3u8
+https://stream.hungarospa.hu/hls/axis3/index.m3u8 
+http://hls1.webcamera.pl/krakowsan_cam_480f1a/krakowsan_cam_480f1a.stream/chunks.m3u8
